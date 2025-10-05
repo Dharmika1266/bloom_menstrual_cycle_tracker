@@ -53,11 +53,13 @@ Your privacy is a priority.
 - Authentication and session management for user safety  
 
 ---
+## 👩‍💻 Authors
+## 🧑‍🔬 Sarah Shaikh
 
-## ⚙️ Installation & Setup
+- Aspiring Data Analyst | Blending Data, Strategy & AI to Drive Meaningful Change
+- https://www.linkedin.com/in/sarah-shaikh-07a3b3289/
 
-To run **Bloom** locally:
+## 👩‍💻 Dharmika Gajera
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/bloom-period-tracker.git
+- Aspiring AI & Software Developer | Passionate about Innovation, Problem Solving & Emerging Technologies
+- https://www.linkedin.com/in/dharmika-gajera-47b572323
